@@ -39,9 +39,3 @@ Firmware de ultra baja latencia y alto rendimiento desarrollado en **Arduino IDE
 3. **Librerías:** Instalar `Adafruit TinyUSB Library` desde el gestor de librerías.
 
 ---
-
-## 🚀 Cómo crear tu repositorio en GitHub
-1. Entra a [GitHub](https://github.com) y haz clic en **New repository**.
-2. Dale un nombre (ej: `pico-simracing-wheel`).
-3. Selecciona **Public**, marca la opción **Add a README file** y haz clic en **Create repository**.
-4. Sube estos dos archivos (`README.md` y el código fuente `.ino`) dentro del repositorio. ¡Listo!

@@ -11,9 +11,9 @@ Para ver todas las funcionalidades del aro, lée el documento "Documentación de
   * Implementación de un material elastómero para mejorar el grip y sujeción
 
 **Cambio en el Hardware**
-  *Utilización de placas controladoras con mayor compatibilidad de uso.
-  *Implementación de display, dashboards, timers.
+  * Utilización de placas controladoras con mayor compatibilidad de uso.
+  * Implementación de display, dashboards, timers.
 
 **Compatibilidad**
-  *Creación de Quick Release genéricos para la compatibilidad con más bases.
-  *Posibilidad de software para personalizar aro.
+  * Creación de Quick Release genéricos para la compatibilidad con más bases.
+  * Posibilidad de software para personalizar aro.

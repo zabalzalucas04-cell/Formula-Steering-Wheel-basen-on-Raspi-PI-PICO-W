@@ -7,7 +7,6 @@ Su primera concepción se utiliza con la base PXN V10. Direct Drive Force Feedba
 Para ver todas las funcionalidades del aro, lée el documento "Documentación del Firmware SimRacing (Raspberry Pi Pico W)"
 # Planes de mejoras a futuro:
 **Mejoras de Grip:**
-  * Agrandar la circunferencia de los grips para mayor ergonomía.
   * Implementación de un material elastómero para mejorar el grip y sujeción
 
 **Cambio en el Hardware**
